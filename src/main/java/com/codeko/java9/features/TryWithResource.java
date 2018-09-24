@@ -1,6 +1,6 @@
 package com.codeko.java9.features;
 /**
- * try with resource comes from java 7, but it has one tiny bug, it's we can not use any resource which is declared outside
+ * try with resource comes from java 7, but it has one tiny bug, it's we can not use any resources which is declared outside
  * of try statement, to overcome that thing, we have to create another local variable refer to that resource.
  *
  * Java 9 resolves that issue
